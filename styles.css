@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+#table,td,th
+{
+	border:solid;
+}
+td{
+	text-align:center;
+}
